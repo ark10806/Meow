@@ -41,7 +41,9 @@ python3 train.py
 |  CLIP(eng) | 95%  |
 
 ### Backend
-![Method image](http://pred.ga/AI_Tech/FinalProject/GPU.mp4)
+![ezgif-2-01fa745b2d](https://user-images.githubusercontent.com/30382262/147382280-032796b0-87bb-4a0c-91b2-c007ed077736.gif)
+http://pred.ga/AI_Tech/FinalProject/GPU2.mp4
+
 
 
 ### Cat Diary Generation Results.
