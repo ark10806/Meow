@@ -40,6 +40,8 @@ python3 train.py
 |  Ours(kor)  | 80%  |
 |  CLIP(eng) | 95%  |
 
+### Backend
+![Method image](http://pred.ga/AI_Tech/FinalProject/GPU.mp4)
 
 
 ### Cat Diary Generation Results.
