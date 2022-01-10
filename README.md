@@ -40,9 +40,10 @@ python3 train.py
 |  Ours(kor)  | 80%  |
 |  CLIP(eng) | 95%  |
 
-### Backend
+### Proxy Server
 ![ezgif-2-01fa745b2d](https://user-images.githubusercontent.com/30382262/147382280-032796b0-87bb-4a0c-91b2-c007ed077736.gif)
-http://pred.ga/AI_Tech/FinalProject/GPU2.mp4
+http://pred.ga/AI_Tech/FinalProject/GPU2.mp4  (High-quality video)  
+
 
 
 
